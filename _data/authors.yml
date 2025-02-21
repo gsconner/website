@@ -1,6 +1,7 @@
 george:
   name: George Conner
   email: gsconner@georgeconner.com
-  github: gsconner
-  linkedin: george-s-conner
-  email: gsconner@georgeconner.com
+  social:
+    github: gsconner
+    linkedin: george-s-conner
+    email: gsconner@georgeconner.com
