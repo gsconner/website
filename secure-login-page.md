@@ -1,9 +1,9 @@
 ---
-permalink: /login-page
+permalink: /secure-login-page
 layout: base
 ---
 
-# Login Page
+# Secure Login Page
 
 <a href="https://GitHub.com/gsconner/login-page"><strong>GitHub page</strong></a>
 
